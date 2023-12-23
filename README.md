@@ -13,6 +13,7 @@ I have recently started coding in flutter and dockIt is my first flutter app whi
 - flutter
 - dart 
 - flutter-animate
+- hive db
 - xcode 
 - vscode
 - figma 
