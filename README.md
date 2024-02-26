@@ -1,6 +1,6 @@
 # DockIt
 
-I have recently started coding in flutter and dockIt is my first flutter app which is a simple to do list planner with a clean yet attractive UI, along with some cute animations as well.This enables you to schedule your daily dasks and mark them as completed or not ✍️.
+I have recently started coding in flutter and dockIt is my first flutter app which is a simple to do list planner with a clean yet attractive UI, along with some cute animations as well.This enables you to schedule your daily tasks and mark them as completed or not ✍️.
 
 # Screenshots
 - Home page
